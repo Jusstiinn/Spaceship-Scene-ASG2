@@ -48,9 +48,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -896634742575985126, guid: cb837a38180be544a86973ee8058544d, type: 3}
+      propertyPath: m_Name
+      value: Floor
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cb837a38180be544a86973ee8058544d, type: 3}
       propertyPath: m_Name
       value: mainroom_floor
+      objectReference: {fileID: 0}
+    - target: {fileID: 4414894724071061044, guid: cb837a38180be544a86973ee8058544d, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4414894724071061044, guid: cb837a38180be544a86973ee8058544d, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4414894724071061044, guid: cb837a38180be544a86973ee8058544d, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'

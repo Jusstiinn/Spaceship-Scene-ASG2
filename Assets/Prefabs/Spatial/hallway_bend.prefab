@@ -53,6 +53,14 @@ PrefabInstance:
       value: hallway_bend
       objectReference: {fileID: 0}
     - target: {fileID: 7116599751084484683, guid: 56376b22aaa54834ea6f98d5d6690e81, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7116599751084484683, guid: 56376b22aaa54834ea6f98d5d6690e81, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7116599751084484683, guid: 56376b22aaa54834ea6f98d5d6690e81, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: e56d0fdbe0fb73d4f9c6dff25fde1a96, type: 2}

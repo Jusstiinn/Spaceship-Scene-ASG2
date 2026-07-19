@@ -53,6 +53,14 @@ PrefabInstance:
       value: hallway_doorway
       objectReference: {fileID: 0}
     - target: {fileID: 1282219121056404672, guid: 32ec6f882079ce8428336bfb98f08afc, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282219121056404672, guid: 32ec6f882079ce8428336bfb98f08afc, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282219121056404672, guid: 32ec6f882079ce8428336bfb98f08afc, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: e56d0fdbe0fb73d4f9c6dff25fde1a96, type: 2}
@@ -60,6 +68,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: e56d0fdbe0fb73d4f9c6dff25fde1a96, type: 2}
+    - target: {fileID: 4340423644140328716, guid: 32ec6f882079ce8428336bfb98f08afc, type: 3}
+      propertyPath: m_Name
+      value: Arch
+      objectReference: {fileID: 0}
     - target: {fileID: 8001565945888046416, guid: 32ec6f882079ce8428336bfb98f08afc, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 

@@ -53,6 +53,14 @@ PrefabInstance:
       value: Room_1wall
       objectReference: {fileID: 0}
     - target: {fileID: 7730848162905297880, guid: ad909cd36ece46b4e96328a3d523117f, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7730848162905297880, guid: ad909cd36ece46b4e96328a3d523117f, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7730848162905297880, guid: ad909cd36ece46b4e96328a3d523117f, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: e56d0fdbe0fb73d4f9c6dff25fde1a96, type: 2}
